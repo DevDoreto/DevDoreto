@@ -30,7 +30,7 @@
         <h1>Lucas Valter Doreto</h1>
         <p>Técnico em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web</p>
         <p>👨‍💻 Apaixonado por tecnologia | 🌐 Desenvolvedor Web | 🐍 Python, PHP, MySQL</p>
-        <p>📧 Contato: lucasdoreto1@gmaail.com</p>
+        <p>📧 Contato: lucasdoreto1@gmail.com</p>
     </div>
 </body>
 </html>
